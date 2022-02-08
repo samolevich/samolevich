@@ -15,7 +15,7 @@
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg' alt='express' width='40' height='40'/>](https://expressjs.com/ 'ExpressJS website')
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg' alt='npm' width='40' height='40'/>](https://www.npmjs.com/ 'NpmJS website')
 [<img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' alt='git' width='40' height='40'/>](https://git-scm.com/ 'Website about Git')
-[<img src='https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg' alt='webpack' width='40' height='40'/>](https://webpack.js.org/ 'Webpack website')
+[<img src='https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original.svg' alt='webpack' width='40' height='40'/>](https://webpack.js.org/ 'Webpack website')
 
 <br/>
 
@@ -31,3 +31,4 @@
 
 [<img src='https://cdn.rawgit.com/telegramdesktop/tdesktop/master/Telegram/Resources/art/icon32.png' alt='t.me/samolevich' width='40' height='40'/>](https://t.me/samolevich 'Connect with me via Telegram messenger')
 [<img src='https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/linkedin/linkedin-original.svg' alt='linkedin.com/in/samolevich/' width='40' height='40'/>](https://www.linkedin.com/in/samolevich/ 'Connect with me via LinkedIn')
+[<img src='https://raw.githubusercontent.com/xtoolkit/Micon/master/icons/webbrand/whatsapp-square.svg' alt='wa.me/79263248737' width='40' height='40' fill='#333'/>](https://wa.me/79263248737 'Connect with me via WhatsApp messenger')
