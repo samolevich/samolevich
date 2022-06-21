@@ -12,13 +12,13 @@
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' alt='sass' width='40' height='40'/>](https://sass-lang.com/ "Sass website")
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' alt='react' width='40' height='40'/>](https://reactjs.org/ "ReactJS website")
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg' alt='redux' width='40' height='40'/>](https://redux.js.org/ "ReduxJS website")
+[<img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg' alt='nodejs' width='40' height='40'/>](https://nodejs.org/ "NodeJS website")
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg' alt='express' width='40' height='40'/>](https://expressjs.com/ "ExpressJS website")
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg' alt='npm' width='40' height='40'/>](https://www.npmjs.com/ "NpmJS website")
 [<img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' alt='git' width='40' height='40'/>](https://git-scm.com/ "Website about Git")
 [<img src='https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original.svg' alt='webpack' width='40' height='40'/>](https://webpack.js.org/ "Webpack website")
 
 
-<!-- [<img src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg' alt='nodejs' width='40' height='40'/>](https://nodejs.org/ "NodeJS website") -->
 <!-- [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/d3js/d3js-plain.svg' alt='D3.js' width='40' height='40'/>](https://d3js.org/ "D3.js website") -->
 <!-- [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg' alt='typescript' width='40' height='40'/>](https://www.typescriptlang.org/ "TypeScript website") -->
 
