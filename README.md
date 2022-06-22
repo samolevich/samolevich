@@ -7,6 +7,7 @@
 ### Languages and Tools:
 
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='javascript' width='40' height='40'/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JS website")
+[<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg' alt='typescript' width='40' height='40'/>](https://www.typescriptlang.org/ "TypeScript website")
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' alt='html5' width='40' height='40'/>](https://www.w3.org/html/ "HTML website")
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' alt='css3' width='40' height='40'/>](https://www.w3schools.com/css/ "CSS3 website")
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' alt='sass' width='40' height='40'/>](https://sass-lang.com/ "Sass website")
@@ -20,7 +21,6 @@
 
 
 <!-- [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/d3js/d3js-plain.svg' alt='D3.js' width='40' height='40'/>](https://d3js.org/ "D3.js website") -->
-<!-- [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg' alt='typescript' width='40' height='40'/>](https://www.typescriptlang.org/ "TypeScript website") -->
 
 <br/>
 
