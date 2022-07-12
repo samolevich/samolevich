@@ -2,7 +2,8 @@
 
 #### Front-End Developer
 
-<br/><br/>
+https://samolevich.github.io/cv/
+
 
 ### Languages and Tools:
 
