@@ -1,6 +1,6 @@
 ## Hi, I'm Konstantin
 
-#### Front-End Developer
+### Front-End Developer
 
 https://samolevich.github.io/cv/
 
