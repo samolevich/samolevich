@@ -26,7 +26,7 @@ https://samolevich.github.io/cv/
 ### My GitHub Language Stats
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samolevich&langs_count=5&layout=compact&theme=buefy)
-
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 <br/><br/>
 
 ---
