@@ -19,7 +19,6 @@ https://samolevich.github.io/cv/
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg' alt='yarn' width='40' height='40'/>](https://yarnpkg.com/ "Yarn website")
 [<img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' alt='git' width='40' height='40'/>](https://git-scm.com/ "Website about Git")
 [<img src='https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original.svg' alt='webpack' width='40' height='40'/>](https://webpack.js.org/ "Webpack website")
-<!-- [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/d3js/d3js-plain.svg' alt='D3.js' width='40' height='40'/>](https://d3js.org/ "D3.js website") -->
 <!-- [<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg' alt='typescript' width='40' height='40'/>](https://www.typescriptlang.org/ "TypeScript website") -->
 <br/>
 
